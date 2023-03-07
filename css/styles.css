@@ -1,0 +1,65 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    align-items: center;
+    font-family: 'Outfit', sans-serif;
+}
+h2{
+   font-size: 22px;
+   color: white;
+   font-family: 'Outfit', sans-serif;
+   font-weight: 600;
+   
+}
+p{
+    color: hsl(215, 51%, 70%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+
+}
+hr{
+    color: hsl(215, 32%, 27%);
+    border-style: solid;
+}
+
+.card{
+    width: 25%;
+    height: 541px;
+    background-color: hsl(216, 50%, 16%);
+    margin: 100px auto 100px auto;
+    border-radius: 20px;
+}
+.png{
+    width: 313.500px;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.text{
+    margin-left: 30px;
+    margin-right: 24px;
+}
+.price{
+
+}
+.eth{
+    padding-right: 155px;
+    margin-bottom: 10px;
+    color: cyan;
+}
+.our{
+    margin-bottom: 10px;
+}
+.time{
+    color:  hsl(215, 51%, 70%);
+}
+.avatar{
+    height: 25px;
+    width: 25px;
+}
+.creator{
+    color:  hsl(215, 51%, 70%) ;
+    margin-bottom: 5px;
+}
+.jules{
+    color: white;
+}
